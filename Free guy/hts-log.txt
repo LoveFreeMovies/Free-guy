@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 15 Sep 2021 12:23:45 at https://filesmart.net/673751e +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://filesmart.net/673751e -O1 "C:\Users\jonathan\Videos\video setup\Free guy" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:24:08	Error: 	"Not Found" (404) at link https://filesmart.net/customTemplateGlobal.set (from https://filesmart.net/673751e)
+12:24:08	Error: 	"Not Found" (404) at link https://filesmart.net/You must include the utils.js file before tether.js (from https://d13pxqgp3ixdbh.cloudfront.net/assets/landing_pages/tether.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 23 seconds : 39 links scanned, 36 files written (3036332 bytes overall) [3007411 bytes received at 130757 bytes/sec], 71058 bytes transferred using HTTP compression in 2 files, ratio 31%, 2.7 requests per connection
+(2 errors, 0 warnings, 0 messages)
